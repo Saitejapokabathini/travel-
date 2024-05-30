@@ -1,0 +1,82 @@
+.card{
+    background-image: url("https://www.imf.org/-/media/Images/IMF/News/news-article-images/2020/CF-570x312-Tourism-Preto-perola-Getty-Images-iStock-1011241694.ashx");
+    height:100vh;
+    background-size: cover;
+    padding-left: 1200px;
+}
+.form{
+    text-align: center;
+    padding-top: 150px;
+    background-image: url("https://st.adda247.com/https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2022/01/25073925/world-heritage-day.jpg");
+    height: 100vh;
+    background-size: cover;
+    border-radius: 2px solid black;
+}
+.box{
+    font-style: italic;
+    border-radius: 2px solid black;
+}
+.bg-container{
+    background-image: url("https://wallpapers.com/images/high/light-show-in-dubai-4k-31lu1glt0h71fgdi.webp");
+    background-size: cover;
+    height:200vh;
+}
+.bg-heading{
+    padding-top: 20px;
+    padding-left:20px;
+    color: rgb(255, 255, 255);
+    font-family:sans-serif;
+}
+.place-container{
+    background-color:aliceblue;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 15px;
+
+}
+.tajmahal{
+    height:150px;
+    width:150px;
+}
+.El{
+    height:150px;
+    width:150px;
+
+}
+.china{
+    height:150px;
+    width:150px;
+
+}
+.tower{
+    height:150px;
+    width:150px;
+
+}
+.jesus{
+    height:150px;
+    width:150px;
+
+}
+.petra{
+    height:150px;
+    width:150px;
+
+}
+.manchu{
+    height:150px;
+    width:150px;
+
+}
+.bg-container2{
+    background-image: url("https://wallpapers.com/images/high/light-show-in-dubai-4k-31lu1glt0h71fgdi.webp");
+    background-size: cover;
+    height:200vh;
+}
+.detailed-view{
+    background-color:aliceblue;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 15px;
+
+}
